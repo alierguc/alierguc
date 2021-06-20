@@ -1,5 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alierguc&theme=chartreuse-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alierguc&theme=slateorange&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alierguc&theme=slateorange&show_icons=true)
+
+[![alierguc's github trophy](https://github-profile-trophy.vercel.app/?username=alierguc&row=1&theme=onedark)](https://github.com/alierguc/github-profile-trophy)
 
 # Hi There ! :wave:
 
