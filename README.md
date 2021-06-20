@@ -1,7 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alierguc&theme=chartreuse-dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alierguc&theme=slateorange&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alierguc&theme=vue&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alierguc&theme=vue&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alierguc&theme=vue&hide_border=true)](https://git.io/streak-stats)
-[![alierguc's github trophy](https://github-profile-trophy.vercel.app/?username=alierguc&row=1&theme=onedark)](https://github.com/alierguc/github-profile-trophy)
+[![alierguc's github trophy](https://github-profile-trophy.vercel.app/?username=alierguc&row=1&theme=vue)](https://github.com/alierguc/github-profile-trophy)
 
 
 
