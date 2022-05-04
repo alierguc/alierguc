@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-### I Use Languages and Tools:
+### I Use Languages - Frameworks - 3RD Party App - Tools:
 <div style="text-align: center;">
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
@@ -45,15 +45,22 @@
 <img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="C#" width="45px" src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/61bb05edca00197f2e7a19cf_Csharp_Logo.png" />
+  
 
 <img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitHub" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" />
+
 <img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="ionic" width="45px" src="https://pbs.twimg.com/profile_images/1415143192782049281/efb7W1Z0_400x400.jpg" />
-  
-
+<img align="left" alt="netcore" width="45px" src="http://mennankose.com/content/images/2019/10/netcore.png" />
+<img align="left" alt="rabbitmq" width="45px" src="https://herve.beraud.io/images/blog/rabbitmq.png" />
+<img align="left" alt="redis" width="45px" src="https://pbs.twimg.com/profile_images/1427657682626961410/aJp7nOdu_400x400.jpg" />
+<img align="left" alt="angular" width="45px" src="http://www.bayramucuncu.com/wp-content/uploads/2020/04/angular.png" />
+<img align="left" alt="mssql" width="60px" src="https://www.natro.com/blog/wp-content/uploads/2014/12/MSSQL280-1.png" />
+<img align="left" alt="zabbix" width="60px" src="https://www.parlakyigit.net/wp-content/uploads/2014/07/zabbix.png" />
 
 </div>
 
